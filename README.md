@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Srabonti Biswas</h1>
-<h3 align="center">A Data analysis aspirants</h3>
+<h3 align="center">Aspiring Data Analyst</h3>
 
 - 🔭 I’m currently working on **Data analysis projects**
 
